@@ -1,3 +1,9 @@
+In this project, it will first ask for a list of of students heights. 
+Then it will put it in a for loop, and putting it in a list. 
+It will then find the sum of all of the numbers.
+Then the number of students.
+Then with all of of the information it found, it will calculate the average height of the list of students and will give it back to you. 
+
 ## Average Height
 
 # UPDATE
